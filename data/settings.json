@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Neo-Dodge City",
+    "description": "a sprawling cyber-settlement where neon signs flicker erratically on dusty, data-caked streets",
+    "feature": "the infamous 'Glitchy Gulch' saloon, where the player piano only knows one corrupted show tune",
+    "atmosphere": "tense with the hum of overworked cooling fans and the murmur of robot discontent"
+  },
+  {
+    "name": "The Silicon Gulch",
+    "description": "a treacherous canyon where prospectors mine for rare earth minerals and forgotten data caches",
+    "feature": "the skeletal remains of abandoned server farms, picked clean by data vultures",
+    "atmosphere": "eerily quiet, save for the whisper of the solar winds through discarded circuit boards"
+  },
+  {
+    "name": "Quantum Leap Saloon",
+    "description": "a notorious watering hole in the heart of the Badlands, where the drinks are virtual but the brawls are very real",
+    "feature": "the holographic bartender who changes appearance based on the highest tipper",
+    "atmosphere": "raucous, filled with the boasts of outlaws and the desperate schemes of down-on-their-luck hackers"
+  },
+  {
+    "name": "The Binary Boneyard",
+    "description": "a vast desert littered with the rusting hulks of obsolete machinery and forgotten technologies",
+    "feature": "packs of feral, self-replicating cleaning bots that hunt for spare parts",
+    "atmosphere": "desolate and dangerous, a testament to the rapid pace of technological obsolescence"
+  }
+]

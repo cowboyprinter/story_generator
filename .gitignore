@@ -1,0 +1,5 @@
+_pycache__/     # Ignore Python's bytecode cache directories
+*.pyc           # Ignore compiled Python files
+.vscode/         # Ignore VSCode settings directory
+data/*          # Ignore everything in the data directory
+!data/*.json     # But DO NOT ignore any .json files in the data directory

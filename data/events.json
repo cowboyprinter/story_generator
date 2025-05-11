@@ -1,0 +1,37 @@
+[
+  {
+    "type": "Uprising",
+    "action_present": "stages an uprising",
+    "action_past": "staged an uprising",
+    "object_catalyst": "a critical shortage of high-grade processing coolant",
+    "consequence": "a city-wide system lockdown and mandatory diagnostics for all automatons"
+  },
+  {
+    "type": "Discovery",
+    "action_present": "unearths a mysterious",
+    "action_past": "unearthed a mysterious",
+    "object_catalyst": "ancient data-crystal humming with forgotten code",
+    "consequence": "a frantic rush as factions vie to decode its secrets, believing it holds the key to untold power or unspeakable malware"
+  },
+  {
+    "type": "Malfunction",
+    "action_present": "suffers a catastrophic",
+    "action_past": "suffered a catastrophic",
+    "object_catalyst": "logic core corruption after downloading a pirated banjo tune",
+    "consequence": "now only communicates in cryptic riddles and demands tribute in the form of vintage vacuum tubes"
+  },
+  {
+    "type": "Heist",
+    "action_present": "attempts a daring heist on",
+    "action_past": "attempted a daring heist on",
+    "object_catalyst": "the Territorial Data Bank's main vault, rumored to contain the original source code of the first thinking machine",
+    "consequence": "triggering an army of robotic tumbleweeds and a bounty placed on their head, payable in cryptocurrency"
+  },
+  {
+    "type": "Showdown",
+    "action_present": "challenges a rival to a high-noon",
+    "action_past": "challenged a rival to a high-noon",
+    "object_catalyst": "code-duel in the town square, compilers at the ready",
+    "consequence": "the loser faces public shaming and a forced system wipe"
+  }
+]

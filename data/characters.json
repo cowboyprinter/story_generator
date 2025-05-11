@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Cogsworth II",
+    "type": "Upgraded Automaton",
+    "trait": "sporting a polished chrome chassis and an even more demanding attitude",
+    "goal": "to establish universal Wi-Fi across the territories",
+    "quote": "My predecessor merely wanted oil; I demand bandwidth!"
+  },
+  {
+    "name": "Sheriff 'Neural Net' Nancy Kincaid",
+    "type": "Cybernetically-Enhanced Lawwoman",
+    "trait": "her positronic brain calculates justice faster than a bullet",
+    "goal": "to enforce the newly ratified Robot Bylaws, Section 3, Paragraph A",
+    "quote": "There's a new sheriff in town, and she runs on clean code and strong coffee."
+  },
+  {
+    "name": "Mad Doc Bitstream",
+    "type": "Itinerant Inventor & Digital Quack",
+    "trait": "peddling 'snake oil' code snippets and dubious neural upgrades from his steam-powered wagon",
+    "goal": "to convince the populace they desperately need his latest 'Cognitive Optimizer v2.3'",
+    "quote": "Step right up! Cure your digital demons and defragment your desires!"
+  },
+  {
+    "name": "Calamity 'Glitch' Jane",
+    "type": "Notorious Data Pirate & System Crasher",
+    "trait": "can bypass any firewall with a rusty multitool and a witty remark",
+    "goal": "to execute the biggest data heist in the history of the digital frontier: the Central Bank's encryption keys",
+    "quote": "They call it a firewall; I call it a welcome mat."
+  },
+  {
+    "name": "Prospector 'Silicon' Sam",
+    "type": " grizzled data-miner",
+    "trait": "always muttering about 'the motherlode of lost memes'",
+    "goal": "to find the legendary Lost Archives of the Ancients",
+    "quote": "There's data in them thar hills!"
+  }
+]
+
